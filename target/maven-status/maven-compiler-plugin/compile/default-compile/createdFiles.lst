@@ -1,0 +1,16 @@
+org\example\EmailAFriendPage.class
+org\example\RegistrationPage.class
+org\example\BasePage.class
+org\example\DesktopsPage.class
+org\example\RegistrationSuccesPage.class
+org\example\HomePage.class
+org\example\NopCommerceNewReleasePage.class
+org\example\AddToCartInDesktop.class
+org\example\ComputersPage.class
+org\example\ShoppingCartPage.class
+org\example\BuildYourOwnComputerPage.class
+org\example\AddToCart.class
+org\example\EmailAFriendResultPage.class
+org\example\Utils.class
+org\example\DriverManager.class
+org\example\LoadProp.class
